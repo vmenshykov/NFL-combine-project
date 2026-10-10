@@ -29,6 +29,7 @@ Results+Conclusion:
 For the years 2000-2015:
 The R^2 values for the combine metric were found to be around 0.013 and 0.016 for WR and RB positions, respectively. Thus, a linear model does not fit to predict rookie year performance from metric which uses NFL combine results. Interestingly, R2 values were greater for using draft position as a predictor and using the new metric. 
 For WR, the R^2 value was slightly higher for the new metric (around 0.224) than the draft position (around 0.221). For RB, it was the other case and the new metric R2 value (0.279) was slightly lower than the draft position R2 value (0.287).
+
 For the years 2016-2019:
 This is where we can see how well the lines of best fit (for 2000-2015) predict rookie year performance when the data is not data that the lines of best fit were taken from.
 For WR: 
