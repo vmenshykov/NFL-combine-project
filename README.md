@@ -3,6 +3,7 @@ Aim:
 Can you predict rookie year performance from a metric which uses the NFL combine event results, and how does it compare to using draft position only and a metric which uses both combine results and draft position as predictors?
 
 Description:
+
 The performance was measured by: yards gained by passing for QB, receiving yards for WR, rushing yards gained for RB.
 I used data from 2000-2015 on NFL combine results and NFL stats to find lines of best fit for performance in rookie year against draft position, combine metric (for all 6 combine events), and a new metric (which used the combine metric+draft position). This was done for WR+RB positions. Lines of best fit compared with data from years 2016-2019.
 I used CSV file data from 2000-2019 on NFL combine results, rushing stats, defence stats, and 2000-2015 for passing stats (all data was taken from www.pro-football-reference.com).
