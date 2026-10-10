@@ -37,4 +37,4 @@ The R^2 values are all lower, with the metric one being negative (i.e. a horizon
 For RB:
 The R^2 values are actually higher for the draft position and new metric. For the metric the R^2 value is again negative. The R^2 values for the draft position and new metric are approximately 0.408 and 0.433.
 
-Overall, it seems that draft position, and new metric are better predictors of rookie year performance than a metric for NFL combine event results. It is inconclusive whether using the new metric which incorporates both combine event results and draft position improves predictions as R^2 values were higher than draft position as a predic for RB and lower for WR when using the new metric
+Overall, it seems that draft position, and new metric are better predictors of rookie year performance than a metric for NFL combine event results. It is inconclusive whether using the new metric which incorporates both combine event results and draft position improves predictions, as R^2 values were higher than draft position as a predictor for RB and lower for WR when using the new metric
