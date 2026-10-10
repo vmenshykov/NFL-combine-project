@@ -1,5 +1,6 @@
 # NFL-combine-project
 Aim:
+
 Can you predict rookie year performance from a metric which uses the NFL combine event results, and how does it compare to using draft position only and a metric which uses both combine results and draft position as predictors?
 
 Description:
@@ -24,6 +25,7 @@ Then, R^2 values were found for the lines of best fit (for 2000-2015).
 All figures with the scatters and lines of best fit are shown at the end of my code.
 
 Results+Conclusion:
+
 For the years 2000-2015:
 The R^2 values for the combine metric were found to be around 0.013 and 0.016 for WR and RB positions, respectively. Thus, a linear model does not fit to predict rookie year performance from metric which uses NFL combine results. Interestingly, R2 values were greater for using draft position as a predictor and using the new metric. 
 For WR, the R^2 value was slightly higher for the new metric (around 0.224) than the draft position (around 0.221). For RB, it was the other case and the new metric R2 value (0.279) was slightly lower than the draft position R2 value (0.287).
